@@ -1,0 +1,28 @@
+{
+  "name": "try-nm",
+  "version": "0.0.0",
+  "description": "My astounding module",
+  "license": "MIT",
+  "repository": "jamestalmage/try-nm",
+  "author": {
+    "name": "James Talmage",
+    "email": "james@talmage.io",
+    "url": "github.com/jamestalmage"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
